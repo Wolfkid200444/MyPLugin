@@ -1,0 +1,9 @@
+name: MyPlugin
+api: 3.0.0
+main: Wolfkid\Main
+version: 9.5.4
+author: Wolfkid200444
+commands:
+  test:
+    usage: /test
+    description: Plugin Test
